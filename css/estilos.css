@@ -1,0 +1,33 @@
+  header{
+    color: white;
+    background-image: url("../imagenes/header.jpg");
+    background-size: cover;
+    height: 50vh;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 2rem;   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.navheader{text-align: right;
+}
+footer{color: white;
+    background-image: url("../imagenes/footer.jpg");
+    background-size: cover;
+    height: 25vh;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 2rem; 
+}
+.navfooter{
+    text-align: left;
+    background-color: gray;
+}
+.boton{
+    background-color: orange;
+}
+.divheader{
+text-align: unset;
+}
